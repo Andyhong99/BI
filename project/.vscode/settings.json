@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f4196e38-e84b-4583-bc03-85ad35fcf371/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/andysolution",
+    "appService.deploySubpath": ""
+}
